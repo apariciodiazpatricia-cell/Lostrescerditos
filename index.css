@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+h3 {
+    font-family: 'franklin-gothic-urw', sans-serif;
+    color:#c5e027;
+  margin: 0;
+  font-size: 1.5rem;
+}
+h2 {
+    font-family: 'franklin-gothic-urw', sans-serif;
+    color: #03500d;
+  margin: 0;
+  font-size: 1.2rem;
+}
+nav {
+  background-color: #e9da11;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+  color: #021f08;
+}
+hr {
+  display: none;
+}
+footer {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  width: 100%
+}
+
+
